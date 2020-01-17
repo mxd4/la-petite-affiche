@@ -2,7 +2,7 @@
 
 Template credits:  
   
-THEME: Explorer - Free Bootstrap Theme  
+THEME: Explorer
 AUTHOR: uiCookies.com  
 AUTHOR URI: https://uiCookies.com/  
 VERSION: 1.0  

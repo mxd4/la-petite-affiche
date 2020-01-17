@@ -1,4 +1,4 @@
-Static personal website
+# Static personal website
 
 Template credits:
 
